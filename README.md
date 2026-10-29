@@ -1,12 +1,12 @@
 # Toblero60
 
-**A Toblerone-inspired 60% mechanical keyboard case. Never completed — concept only.**
+**A Toblerone-inspired 60% mechanical keyboard case. Modeled and rendered, but never produced — the idea was shelved.**
 
-Toblero60 was a concept for a 60% keyboard case with a Toblerone theme. It never made it past the idea stage, but the design notes that were captured are preserved here.
+Toblero60 was a 60% keyboard case with a Toblerone theme. 3D models were built and rendered (Aug 2023), but the project was never produced and the idea was shelved.
 
 ## Status
 
-- **Not completed.** The project was shelved before any modeling, CAD, or manufacturing work began.
+- **Not completed / never produced.** 3D models and renders exist, but no manufacturing or production ever happened.
 - The idea was born in a dream / late-night conversation (Aug 2023) and never got funded or built.
 
 ## Specs
@@ -24,13 +24,33 @@ Toblero60 was a concept for a 60% keyboard case with a Toblerone theme. It never
 
 ## Development
 
-- **CAD / modeling:** None — never started (concept only)
-- **Renders:** None
-
+- **CAD / modeling:** 3D models were built (Fusion 360, v1) and rendered Aug 24, 2023 — see `rendering/`
+- **Production:** never happened — the idea was shelved
 
 - The design was discussed in Aug 2023; the team's reaction was "the weirder it gets, the more interesting it is" — the unusual mounting mechanism was the intended hook.
 - A reference on undercut machining (WayKen, *Undercut Machining: A Complete Guide for CNC Parts with Undercuts*) was collected, presumably for the top-slip-in plate mechanism.
-- The project was never funded ("tapi gada duit juga wkwkwkw") and was never started.
+- The project was never funded ("tapi gada duit juga wkwkwkw") and was shelved after the v1 models and renders.
+
+## Gallery
+
+Renders of the v1 model (Aug 24, 2023). The case shows the Toblerone-style angled/wedge end caps and the 60% key layout.
+
+Top-down view of the case with key openings:
+
+![Case top-down](rendering/MEME60_v1_2023-Aug-24_01-48-36PM-000_CustomizedView9581146523.png)
+
+Front view:
+
+![Case front](rendering/MEME60_v1_2023-Aug-24_01-48-59PM-000_CustomizedView24739110981.png)
+
+Isometric view showing the wedge end caps:
+
+![Case isometric](rendering/MEME60_v1_2023-Aug-24_01-49-28PM-000_CustomizedView1883640717.png)
+
+Side profile — the Toblerone wedge shape:
+
+![Case side profile](rendering/MEME60_v1_2023-Aug-24_01-46-15PM-000_CustomizedView14864089648.png)
+
 
 ## References
 
